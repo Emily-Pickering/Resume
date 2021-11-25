@@ -4,7 +4,7 @@
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Bachelor of Health Science (Majoring in Naturopathy) | Endeavour College of Natural Health          | 20012-2019 |
+| Bachelor of Health Science (Majoring in Naturopathy) | Endeavour College of Natural Health          | 2012 - 2019 |
 | Doctor of Philosophy | The University of Queensland | 2020 - Current |
 
 ## Employment
