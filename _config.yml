@@ -2,8 +2,8 @@ description: This is a template researchers can walk away with and create their 
 datelastupdated: 25 Nov 2021
 fullnameofperson: Emily Pickering
 selfIdentification: PhD candidate and Complementary Medicine Practitioner
-colour1: "#9D75CB"  # sidebar background 
+colour1: "#8C1A6A"  # sidebar background 
 colour2: "#a3cef1"  # colour of name and desc
 colour3: "#a3cef1"  # colour of Menu links
 colour4: "#DFD3EE" # trying to be background colour
-colour5: "#e7ecef" # menu link colour when hover
+colour5: "#A657AE" # menu link colour when hover
