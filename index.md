@@ -7,13 +7,13 @@
 | Bachelor of Health Science (Majoring in Naturopathy) | Endeavour College of Natural Health          | 2012 - 2019 |
 | Doctor of Philosophy | The University of Queensland | 2020 - Current |
 
-## Employment
+## Employment/Experiance
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-|Griffith University      |eResearch Analyst         |2016-Present|
-|QCIF Secondment|eResearch Analyst |2018-Present|
-|Griffith University|Software Engineer |2010-2016|
-|Griffith University|Bioinformatician |2008-2010|
+|Evidence Sciences Pty Ltd      |Research Associate         |2020-Present|
+|Emily Pickering Nutrition and Herbs|Principle Health Practitioner |2019-Present|
+|Endeavour College of Natural Health|Student Researcher |2018-2019|
+|Endeavour Collage of Natural Health|Student Practitioner |2017-2019|
 
 ## Skills
 
